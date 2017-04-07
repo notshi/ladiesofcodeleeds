@@ -3,7 +3,7 @@
 # Ladies of Code Leeds
 
 
-Ladies of Code Leeds is organised by [Natasha Sayce-Zelem](https://twitter.com/unharmonic), [Lauren Lewis](https://twitter.com/lori_lew) & [shi](https://twitter.com/shi).
+Ladies of Code Leeds is organised by [Natasha](https://twitter.com/unharmonic), [Angie](https://twitter.com/lalamaguire), [Lauren](https://twitter.com/lori_lew) & [shi](https://twitter.com/shi).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](https://www.meetup.com/Ladies-of-Code-Leeds/)**.
 
