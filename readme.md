@@ -12,3 +12,5 @@ Ladies of Code Leeds is organised by [Natasha](https://twitter.com/unharmonic), 
 ## Previous meetups
 + [March 2017 - Intro to Docker](/meetups/2017-march)
 + [November 2016 - Lightning talks, pair programming and pizza](/meetups/2016-november)
++ [October 2016 - Lightning talks, catching up and pizza](/meetups/2016-october)
++ [August 2016 - Launch of Leeds Chapter](/meetups/2016-august)
