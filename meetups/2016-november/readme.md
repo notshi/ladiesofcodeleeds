@@ -1,5 +1,7 @@
 # Ladies of Code LDS | [November 2016](https://www.meetup.com/Ladies-of-Code-Leeds/events/234722927/)
 
+_November 29, 6:00 PM - Future Labs_
+
 This time we had two lovely speakers who shared about their personal experiences in the industry!
 
 
