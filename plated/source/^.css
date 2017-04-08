@@ -20,10 +20,10 @@ a.bar:hover	{background-color:#1400ff; border-bottom:none;}
 
 /*	index.html	*/
 
-.main_wrap	{width:1024px; margin:0 auto;}
+.main_wrap	{width:960px; margin:0 auto;}
 .main_gif, .main_intro	{display:inline-block; vertical-align:top;}
 .main_gif	{width:400px; height:400px; background:url('{_root}data/loc.gif')center center no-repeat;}
-.main_intro	{width:524px; font-size:20px; line-height:32px; margin-left:100px; margin-top:65px;}
+.main_intro	{width:510px; font-size:20px; line-height:32px; margin-left:50px; margin-top:65px;}
 .main_intro p:nth-of-type(odd)	{font-weight:bold;}
 
 a.join		{display:block; border-radius:4px; text-align:center; padding:10px 0; color:#fff; background-color:#e53334; text-decoration:none;}
