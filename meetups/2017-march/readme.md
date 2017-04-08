@@ -1,6 +1,6 @@
 # Ladies of Code LDS | [March 2017](https://www.meetup.com/Ladies-of-Code-Leeds/events/237903024/)
 
-_March 30 · 6:30 PM · The Datashed, Mabgate Business Centre_
+_March 30, 6:30 PM - The Datashed, Mabgate Business Centre_
 
 ### Intro to Docker - presented by [_Lauren Lewis_](https://twitter.com/lori_lew)
 
