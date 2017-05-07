@@ -20,6 +20,12 @@ Technology has the power to improve lives and solve problems – this is just th
 _Tejay is actively involved in closing the gender gap in tech and is a lead instructor for Code First: Girls, a social enterprise that trains up young women across the country with digital skills._
 
 
-### A Journey Into Code - presented by **Ceri-anne Jackson**
+### A Journey Into Code - presented by [Ceri-anne Jackson](https://twitter.com/ceri_anne)
+
+A talk about learning to code, changing career and becoming a junior developer. 
+
+[**Check out Ceri-anne's presentation**](https://www.dropbox.com/s/pa84hcvcj663pn9/A%20Journey%20Into%20Code%20-%20Ceri-anne%20Jackson.pptx?dl=0)
+
+_Ceri-anne is an associate software developer at Sky. She recently took part in Sky's Get into Tech programme and changed career after spending 14 years working in the Credit Risk industry. Now working on iOS/Swift apps and passionate about getting more women into tech._
 
 ### End to End Testing, are you wasting too much time? - presented by **Shahnaaz Rahamatullah**
