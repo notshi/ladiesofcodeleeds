@@ -6,7 +6,7 @@ _May 02, 6:00 PM - Future Labs_
 
 As Agile continues to challenge the status quo of the software development industry, Sky stand tall in promoting, implementing and failing fast in the movement. A quick talk on how Sky implement Scrum: the joys, the fears, the confusion.
 
-[**Check out Amardeep's presentation**](#)
+[**Check out Amardeep's presentation**](https://www.dropbox.com/s/rlgeae6os5feijx/Ladies%20of%20Code%202nd%20May%202017%20-%20Amardeep%20Sirha.pptx?dl=0)
 
 _Amardeep is a a strong believer in Agile and advocate this through: educating stakeholders to form an agile mind-set, following the Just-In-Time analysis concept, facilitating the team in lean software development and taking an active role within the Business Analyst and Agile communities within Yorkshire._
 
