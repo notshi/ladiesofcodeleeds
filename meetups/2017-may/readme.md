@@ -10,6 +10,7 @@ As Agile continues to challenge the status quo of the software development indus
 
 _Amardeep is a a strong believer in Agile and advocate this through: educating stakeholders to form an agile mind-set, following the Just-In-Time analysis concept, facilitating the team in lean software development and taking an active role within the Business Analyst and Agile communities within Yorkshire._
 
+-----
 
 ### Beyond Bootstrap - presented by [_Tejay White_](https://twitter.com/tejaywhite)
 
@@ -19,6 +20,7 @@ Technology has the power to improve lives and solve problems – this is just th
 
 _Tejay is actively involved in closing the gender gap in tech and is a lead instructor for Code First: Girls, a social enterprise that trains up young women across the country with digital skills._
 
+-----
 
 ### A Journey Into Code - presented by [Ceri-anne Jackson](https://twitter.com/ceri_anne)
 
@@ -28,4 +30,8 @@ A talk about learning to code, changing career and becoming a junior developer.
 
 _Ceri-anne is an associate software developer at Sky. She recently took part in Sky's Get into Tech programme and changed career after spending 14 years working in the Credit Risk industry. Now working on iOS/Swift apps and passionate about getting more women into tech._
 
-### End to End Testing, are you wasting too much time? - presented by **Shahnaaz Rahamatullah**
+-----
+
+### End to End Testing, are you wasting too much time? - presented by _Shahnaaz Rahamatullah_
+
+The trials and tribulations of testing the robustness of your code from developer output to what is presented to the user on the screen.
