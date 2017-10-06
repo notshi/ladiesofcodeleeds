@@ -6,7 +6,7 @@ _October 06, 6:30 PM - Future Labs_
 
 -----
 
-### Agile ADHD: How the techy way of working transformed my home life - presented by [_Sally Bridgewater_](https://github.com/Salstar24)
+### Agile ADHD: How the techy way of working transformed my home life - presented by [_Sally Bridgewater_](https://twitter.com/Salstar24)
 
 
 -----
