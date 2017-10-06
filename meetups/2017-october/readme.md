@@ -4,7 +4,7 @@ _October 06, 6:30 PM - Future Labs_ [Photos from event](https://www.dropbox.com/
 
 **Many thanks to our gracious sponsor, [CapGemini](https://www.capgemini.com/gb-en/)**
 
-### The monster coming over the hill - Coding is Dead - presented by [_Sarah Saunders_](https://twitter.com/sasaunde)
+### Enterprise Coding is Dead - presented by [_Sarah Saunders_](https://twitter.com/sasaunde)
 
 -----
 
