@@ -3,13 +3,14 @@
 # Ladies of Code Leeds
 
 
-Ladies of Code Leeds is organised by [Natasha](https://twitter.com/unharmonic), [Angie](https://twitter.com/lalamaguire), [Lauren](https://twitter.com/lori_lew) & [shi](https://twitter.com/shi).
+Ladies of Code Leeds is organised by [Natasha](https://twitter.com/unharmonic), [Lauren](https://twitter.com/lori_lew) & [shi](https://twitter.com/shi).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](https://www.meetup.com/Ladies-of-Code-Leeds/)**.
 
 
 
 ## Previous meetups
++ [October 2017 - Ladies Of Code October Meetup](/meetups/2017-october)
 + [May 2017 - Ladies of Code Leeds meetup](/meetups/2017-may)
 + [March 2017 - Intro to Docker](/meetups/2017-march)
 + [November 2016 - Lightning talks, pair programming and pizza](/meetups/2016-november)
