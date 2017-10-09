@@ -8,6 +8,8 @@ Ladies of Code Leeds is organised by [Natasha](https://twitter.com/unharmonic), 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](https://www.meetup.com/Ladies-of-Code-Leeds/)**.
 
 
+Do [fill out this form](https://goo.gl/forms/AhdVtBRywo0NiYyq2) if you would like to give a talk or presentation. We are always looking for speakers and sponsorship (_we love swag_) so would love to have you!
+
 
 ## Previous meetups
 + [October 2017 - Ladies Of Code October Meetup](/meetups/2017-october)
