@@ -1,5 +1,7 @@
 <img align="right" width="250px" src="https://cloud.githubusercontent.com/assets/8995723/12703902/58324a9e-c846-11e5-9f8f-49326881efaf.gif"/>
 
+NEW
+
 # Ladies of Code Leeds
 
 
