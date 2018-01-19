@@ -16,12 +16,12 @@ _She want to see the industry truly embrace its potential by embracing a wider c
 
 -----
 
-### Run Faster! My Experience with software performance - presented by [_Sorina Grave_](https://github.com/sorinagrave)
+### Run Faster! My experience with software performance - presented by [_Sorina Grave_](https://github.com/sorinagrave)
 
 ...
 
 
-[**Check out Sorina's presentation**](#)
+[**Check out Sorina's presentation**](https://drive.google.com/file/d/1QglLZ5E3lvT7PKZ65pGp3GwDOTOi3GYN/view)
 
 
 _Sorina is a software developer with over 15 years of experience in the full development life-cycle. She strongly believes in good design focusing on functionality, performance and extensibility, writing maintainable code and providing thorough documentation and unit tests._
