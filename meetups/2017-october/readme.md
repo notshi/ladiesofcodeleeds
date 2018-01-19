@@ -6,6 +6,8 @@ _October 06, 6:30 PM - Future Labs_ [Photos from event](https://www.dropbox.com/
 
 ### The Monster coming over the Hill - Enterprise Coding is Dead - presented by [_Sarah Saunders_](https://twitter.com/sasaunde)
 
+![sasaunde_200x200](https://user-images.githubusercontent.com/1515961/35159109-16c69c8c-fd31-11e7-9021-e786fc71681f.jpg)
+
 Recently within Capgemini, we took part in an exercise to try and understand why the development community is so big on sharing knowledge, compared with other communities. The kudos you get from sharing code has a greater value to your career than the code itself. With sites like Stack Exchange, you can download every snippet of code you’ll ever need. Add this to the Open Source movement, and the growing number of products which generate code from diagrams and GUIs, and there’s a scary conclusion to be drawn:
 
 THE CODE WE WRITE HAS NO VALUE.
