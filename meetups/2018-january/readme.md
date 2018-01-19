@@ -18,15 +18,14 @@ _She want to see the industry truly embrace its potential by embracing a wider c
 
 -----
 
-### Run Faster! My experience with software performance - presented by [_Sorina Grave_](https://github.com/sorinagrave)
+### Run Faster! My experience with software performance - presented by [_Sorina Grave_](https://www.linkedin.com/in/sorina-grave-2624a268/)
 
-...
-
+My talk is about software performance and my experiences with it over the years. It shows my personal view on why is performance important, how developers can ensure their code is fast and ideas for troubleshooting performance issues.
 
 [**Check out Sorina's presentation**](https://drive.google.com/file/d/1QglLZ5E3lvT7PKZ65pGp3GwDOTOi3GYN/view)
 
 
-_Sorina is a software developer with over 15 years of experience in the full development life-cycle. She strongly believes in good design focusing on functionality, performance and extensibility, writing maintainable code and providing thorough documentation and unit tests._
+_Sorina got into tech from an early age studying computers since she was 14. She got her first dev job in 1999 and has worked for several big corporations over the years. Sorina is now employed by Sky and is excited to experience such diversity and enthusiasm for tech from everyone!_
 
 
 -----
