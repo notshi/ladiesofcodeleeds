@@ -6,6 +6,8 @@ _January 18, 6:00 PM - Sky 2_ [Photos from event](https://www.meetup.com/Ladies-
 
 ### Living In The Science Fiction Future - presented by [_Edafe Onerhime_](https://twitter.com/ekoner)
 
+![edafe-onerhime_200x200](https://user-images.githubusercontent.com/1515961/35159110-16eb8ea2-fd31-11e7-9261-b5db8629c3a3.png)
+
 From Star Trek to 2001: A Space Odyssey, science fiction has inspired, leap frogged and shaped how we live today. With artificial intelligence predicted to replace jobs and change the future of work, what are the alternative futures and opportunities for humans living the science fiction future?
 
 [**Check out Edafe's presentation**](#)
