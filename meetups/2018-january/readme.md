@@ -14,7 +14,7 @@ From Star Trek to 2001: A Space Odyssey, science fiction has inspired, leap frog
 
 _Edafe is a consultant data scientist with over 20 years of experience using data, modern statistical data science methods and data analysis skills to solve real world problems._
 
-_She want to see the industry truly embrace its potential by embracing a wider cross-section of people._
+_She wants to see the industry truly embrace its potential by embracing a wider cross-section of people._
 
 -----
 
