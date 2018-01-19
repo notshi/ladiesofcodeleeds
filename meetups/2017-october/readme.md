@@ -21,7 +21,9 @@ _Sarah is a Senior Software Engineer at Capgemini, and co-leads the Open Source 
 
 -----
 
-### Agile ADHD: How the techy way of working transformed my home life - presented by [_Sally Bridgewater_](https://twitter.com/Salstar24)
+### Agile ADHD - presented by [_Sally Bridgewater_](https://twitter.com/Salstar24)
+
+[**Check out Sally's presentation**](https://drive.google.com/open?id=1FX3PS7Ijs8U5mIT3CzXOdCU1uSva0Cz3)
 
 
 -----
