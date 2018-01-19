@@ -6,6 +6,8 @@ _January 18, 6:00 PM - Sky 2_ [Photos from event](https://www.meetup.com/Ladies-
 
 ### Living In The Science Fiction Future - presented by [_Edafe Onerhime_](https://twitter.com/ekoner)
 
+From Star Trek to 2001: A Space Odyssey, science fiction has inspired, leap frogged and shaped how we live today. With artificial intelligence predicted to replace jobs and change the future of work, what are the alternative futures and opportunities for humans living the science fiction future?
+
 [**Check out Edafe's presentation**](#)
 
 Edafe is a consultant data scientist with over 20 years of experience using data, modern statistical data science methods and data analysis skills to solve real world problems. 
@@ -29,6 +31,8 @@ _Sorina is a software developer with over 15 years of experience in the full dev
 
 ### Business Analyst: Bridging the gap between business and technology - presented by [_Rebecca McCarthy_](https://uk.linkedin.com/in/rebecca-mccarthy-692099a7)
 
+...
+
 [**Check out Rebecca's presentation**](#)
 
 
@@ -36,12 +40,16 @@ _Sorina is a software developer with over 15 years of experience in the full dev
 
 ### NLP in AI: Natural Language Processing accuracy - an agent prototype based on a functional linguistic theory - presented by [_Kulvinder Panesar_](https://uk.linkedin.com/in/kulvinder-panesar-ph-d-6645a721)
 
+...
+
 [**Check out Kulvinder's presentation**](#)
 
 
 -----
 
 ### Side Stepping into Tech - presented by [_Clare Devine_](https://twitter.com/clarecodes)
+
+...
 
 [**Check out Clare's presentation**](#)
 
