@@ -1,6 +1,6 @@
 # Ladies of Code LDS | [January 2018](https://www.meetup.com/Ladies-of-Code-Leeds/events/245909469/)
 
-_January 18, 6:00 PM - Sky 2_ [Photos from event](https://www.meetup.com/Ladies-of-Code-Leeds/photos/all_photos/?photoAlbumId=28498435)
+_January 18, 6:00 PM - Sky 2_ [Photos from event](https://www.meetup.com/Ladies-of-Code-Leeds/photos/28498435/)
 
 ## Many thanks to our gracious sponsor, [Sky Bigger Picture](https://twitter.com/skybiggerpic)
 
