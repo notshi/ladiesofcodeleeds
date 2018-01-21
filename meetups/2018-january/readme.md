@@ -10,7 +10,7 @@ _January 18, 6:00 PM - Sky 2_ [Photos from event](https://www.meetup.com/Ladies-
 
 From Star Trek to 2001: A Space Odyssey, science fiction has inspired, leap frogged and shaped how we live today. With artificial intelligence predicted to replace jobs and change the future of work, what are the alternative futures and opportunities for humans living the science fiction future?
 
-[**Check out Edafe's presentation**](#)
+[**Check out Edafe's presentation**](https://docs.google.com/presentation/d/118RXDTBff-KP4ieN6nIiDuWBcsXdH_RdUjtaDBbwFvk/edit#slide=id.gcb9a0b074_1_0)
 
 _Edafe is a consultant data scientist with over 20 years of experience using data, modern statistical data science methods and data analysis skills to solve real world problems._
 
