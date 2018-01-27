@@ -47,7 +47,7 @@ _Sorina got into tech from an early age studying computers since she was 14. She
 
 My PhD research explores the long-standing issue within natural language processing (NLP) conversational agents (CA) of refining the accuracy of the interpretation of meaning to provide a realistic dialogue to support the human-to-computer communication. Underpinning this research, is Role and Reference Grammar (RRG), a strong, mature, functional theory, which is computationally explored to formulate the linguistic engine of a conversational software agent (CSA). How this is derived, implemented and evaluated is discussed in the talk.
 
-[**Check out Kulvinder's presentation**](https://drive.google.com/open?id=0B-EcDVPirelzSEozSHEwLWpyQ0pqQXplaHZHeUhEOWJBTUNz)
+[**Check out Dr Kulvinder's presentation**](https://drive.google.com/open?id=0B-EcDVPirelzSEozSHEwLWpyQ0pqQXplaHZHeUhEOWJBTUNz)
 
 _Dr Kulvinder's role as a Senior Lecturer in Computer Science, researcher and Java Programmer is supported by her strong interest in emerging technologies and advances in artificial intelligence (AI), in particular the cognitive dimension and conversational behaviour. Her PhD research presented an innovative approach to address the accuracy of the interpretation of meaning of what is being said, and the facilitation of a response via a linguistically centred conversational software agent (LING-CSA)._
 
