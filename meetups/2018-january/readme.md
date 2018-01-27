@@ -41,7 +41,7 @@ _Sorina got into tech from an early age studying computers since she was 14. She
 
 -----
 
-### NLP in AI: Natural Language Processing accuracy – an agent prototype based on a functional linguistic theory - presented by [_Kulvinder Panesar_](https://uk.linkedin.com/in/kulvinder-panesar-ph-d-6645a721)
+### NLP in AI: Natural Language Processing accuracy – an agent prototype based on a functional linguistic theory - presented by [_Dr Kulvinder Panesar_](https://uk.linkedin.com/in/kulvinder-panesar-ph-d-6645a721)
 
 ![kulvinder_panesar](https://user-images.githubusercontent.com/1515961/35470404-dd8923a2-0340-11e8-87e9-3a17e5c4cce9.jpg)
 
@@ -49,7 +49,7 @@ My PhD research explores the long-standing issue within natural language process
 
 [**Check out Kulvinder's presentation**](https://drive.google.com/open?id=0B-EcDVPirelzSEozSHEwLWpyQ0pqQXplaHZHeUhEOWJBTUNz)
 
-_Kulvinder's role as a Senior Lecturer in Computer Science, researcher and Java Programmer is supported by her strong interest in emerging technologies and advances in artificial intelligence (AI), in particular the cognitive dimension and conversational behaviour. Her PhD research presented an innovative approach to address the accuracy of the interpretation of meaning of what is being said, and the facilitation of a response via a linguistically centred conversational software agent (LING-CSA)._
+_Dr Kulvinder's role as a Senior Lecturer in Computer Science, researcher and Java Programmer is supported by her strong interest in emerging technologies and advances in artificial intelligence (AI), in particular the cognitive dimension and conversational behaviour. Her PhD research presented an innovative approach to address the accuracy of the interpretation of meaning of what is being said, and the facilitation of a response via a linguistically centred conversational software agent (LING-CSA)._
 
 -----
 
