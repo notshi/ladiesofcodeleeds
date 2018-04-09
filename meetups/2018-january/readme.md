@@ -34,11 +34,6 @@ _Sorina got into tech from an early age studying computers since she was 14. She
 
 ### Business Analyst: Bridging the gap between business and technology - presented by [_Rebecca McCarthy_](https://uk.linkedin.com/in/rebecca-mccarthy-692099a7)
 
-...
-
-[**Check out Rebecca's presentation**](#)
-
-
 -----
 
 ### NLP in AI: Natural Language Processing accuracy – an agent prototype based on a functional linguistic theory - presented by [_Dr Kulvinder Panesar_](https://uk.linkedin.com/in/kulvinder-panesar-ph-d-6645a721)
@@ -55,12 +50,13 @@ _Dr Kulvinder's role as a Senior Lecturer in Computer Science, researcher and Ja
 
 ### Side Stepping into Tech - presented by [_Clare Devine_](https://twitter.com/clarecodes)
 
-...
-
-[**Check out Clare's presentation**](#)
-
-Clare has also written a [**blog post about the event here**](https://clarecodes.com/2018/01/19/ladies-of-code-january-meetup/).
-
+_Clare is a software developer from the North East of England with an interest in front end development, and CSS in particular. She has been in the industry for almost three years and has been actively documenting her life on her blog as well as the great experiences she's had through work and writing about help she's come across along the way._
 
 -----
+
+### Blog posts
+
+Clare Devine has written a [**blog post about the event here**](https://clarecodes.com/2018/01/19/ladies-of-code-january-meetup/).
+
+Arianne Donoghue has written a [**short article about the event here**](https://medium.com/@arianned/ladies-of-code-leeds-january-meetup-acfc468aed92).
 
