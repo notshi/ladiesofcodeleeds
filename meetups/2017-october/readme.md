@@ -25,6 +25,8 @@ _Sarah is a Senior Software Engineer at Capgemini, and co-leads the Open Source 
 
 ### Agile ADHD: wheelchair ramps for the mind - presented by [_Sally Bridgewater_](https://www.linkedin.com/in/sallybridgewater/)
 
+![sally_bridgewater_200x200](https://user-images.githubusercontent.com/1515961/38507562-c6777404-3c14-11e8-92b5-ded8ca18ab67.jpg)
+
 Imagine knowing you're annoying, naughty and lazy, before you're five years old. Imagine growing up with a brain that can only see about a day ahead, and beyond that your obligations always come as a dreaded surprise. This is what having ADHD is like, and without treatment, it can ruin your life.
 
 Partly, treatment means medicine, but ADHD sufferers need to make substantial adjustments in their environment to be able to succeed. Sally Bridgewater will talk about how she's used Scrum with her fiancé Francis to provide unprecedented stability to the chaotic disorder they've both struggled to control. This story of love and patience has been called 'victorious and touching' and won the first prize at Agile Yorkshire's 2017 Christmas Lightning Talks competition.
